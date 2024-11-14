@@ -1,12 +1,10 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
+[![logo](images/logo.png)]()
+
   <a href="images/logo.png">
     <img src="images/logo.png" alt="Logo" width="600" height="150">
   </a>
   <h3 align="center">Artisanat - Craft Something Beautiful</h3>
-</div>
 
 <p align="center> E-commerece course project at Qassim University.</p>
   
