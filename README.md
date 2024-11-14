@@ -9,5 +9,5 @@ Building Artisanat Website - a platform that encourages and provides opportuniti
 * [![wordpress][wordpress.com]][wordpress-url]
 
 
-[wordpress.com]: https://img.shields.io/wordpress/plugin/v/:slug
+[wordpress.com]: https://skillicons.dev/icons?i=wordpress)
 [wordpress-url]: https://wordpress.com
