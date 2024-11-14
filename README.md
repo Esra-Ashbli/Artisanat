@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">Artisanat - Craft Something Beautiful</h3>
