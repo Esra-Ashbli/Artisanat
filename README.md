@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+# Artisanat
 <br />
 <div align="center">
   <a href="images/logo.png">
