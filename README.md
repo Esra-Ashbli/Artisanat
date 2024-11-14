@@ -1,12 +1,8 @@
 
 [![logo](images/logo.png)]()
 
-  <a href="images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="600" height="150">
-  </a>
-  <h3 align="center">Artisanat - Craft Something Beautiful</h3>
-
-<p align="center> E-commerece course project at Qassim University.</p>
+Artisanat - Craft Something Beautiful
+E-commerece course project at Qassim University.
   
 ## About the project
 Building Artisanat Website - a platform that encourages and provides opportunities for artisans to market and sell their product via the internet and faciliates the process of reaching customers>
