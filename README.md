@@ -1,4 +1,5 @@
-# Artisanat
+
+<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="images/logo.png">
@@ -9,8 +10,9 @@
   <p align="center> E-commerece course project at Qassim University.</p>
 </div>
 
+<!-- ABOUT THE PROJECT -->
 ## About the project
 Building Artisanat Website - a platform that encourages and provides opportunities for artisans to market and sell their product via the internet and faciliates the process of reaching customers>
 
-## Built With
+### Built With
 [![wordpress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.com)
