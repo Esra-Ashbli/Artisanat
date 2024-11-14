@@ -11,18 +11,18 @@ Building Artisanat Website - a platform that encourages and provides opportuniti
 * Home page
   
   <br>
-<img src="images/home.png" alt="home-page" width="470" height="300">
+<img src="images/home.png" alt="home-page" width="550" height="300">
 
 * Shop page
   
   <br>
   
-<img src="images/shop.png" alt="cart-page" width="470" height="300">
+<img src="images/shop.png" alt="cart-page" width="550" height="300">
 
 * Viwe cart page
   
 <br>
-<img src="images/cart.png" alt="cart-page" width="400" height="300">
+<img src="images/cart.png" alt="cart-page" width="500" height="500">
 
 ### Built With
 [![wordpress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.com)
