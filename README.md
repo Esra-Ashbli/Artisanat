@@ -9,10 +9,13 @@ E-commerece course project at Qassim University.
 Building Artisanat Website - a platform that encourages and provides opportunities for artisans to market and sell their product via the internet and faciliates the process of reaching customers.
 
 * Home page
+  <br>
 [![home](images/home.png)]()
 * Shop page
+  <br>
 [![shop](images/shop.png)]()
 * Viwe cart page
+<br>
 [![cart](images/cart.png)]()
 
 ### Built With
