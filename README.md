@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Esra-Ashbli/Artisanat/blob/main/images/1%20Web%20logo.png">
+  <a href="images/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
