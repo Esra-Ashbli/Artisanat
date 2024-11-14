@@ -3,6 +3,7 @@
 <h3 align= "center">Artisanat - Craft Something Beautiful.</h3>
 <p align= "center">E-commerece course project at Qassim University.</p>
 
+<br><br>
 
 ## About the project
 Building Artisanat Website - a platform that encourages and provides opportunities for artisans to market and sell their product via the internet and faciliates the process of reaching customers.
