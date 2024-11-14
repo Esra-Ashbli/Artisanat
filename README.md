@@ -1,6 +1,13 @@
-# Artisanat
-<p> Artisanat - Craft Something Beautiful</p>
-<p> E-commerece course project at Qassim University.</p>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Esra-Ashbli/Artisanat/blob/main/images/1%20Web%20logo.png">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Artisanat - Craft Something Beautiful</h3>
+  <p align="center> E-commerece course project at Qassim University.</p>
+</div>
 
 ## About the project
 Building Artisanat Website - a platform that encourages and provides opportunities for artisans to market and sell their product via the internet and faciliates the process of reaching customers>
