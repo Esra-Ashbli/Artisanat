@@ -1,7 +1,8 @@
 
 [![logo](images/logo.png)]()
 
-Artisanat - Craft Something Beautiful
+Artisanat - Craft Something Beautiful.
+
 E-commerece course project at Qassim University.
   
 ## About the project
