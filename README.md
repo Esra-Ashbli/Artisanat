@@ -18,6 +18,7 @@ Building Artisanat Website - a platform that encourages and provides opportuniti
   <br>
   
 <img src="images/shop.png" alt="cart-page" width="470" height="300">
+
 * Viwe cart page
   
 <br>
