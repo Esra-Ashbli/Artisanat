@@ -13,6 +13,7 @@ Building Artisanat Website - a platform that encourages and provides opportuniti
   <br>
   
 [![home](images/home.png)]()
+<img src="images/home.png" alt="home-page" width="100" height="40">
 
 * Shop page
   
