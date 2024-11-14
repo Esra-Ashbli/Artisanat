@@ -22,7 +22,7 @@ Building Artisanat Website - a platform that encourages and provides opportuniti
 * Viwe cart page
   
 <br>
-<img src="images/cart.png" alt="cart-page" width="500" height="500">
+<img src="images/cart.png" alt="cart-page" width="500" height="550">
 
 ### Built With
 [![wordpress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.com)
